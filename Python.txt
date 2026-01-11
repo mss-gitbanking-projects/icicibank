@@ -1,3 +1,2 @@
 
-this is python script
-Added 1 extra line
+this is python scriot
